@@ -1,4 +1,4 @@
-0.30.5 Update
+0.30.5 Update  
 NEW FEATURES
  - Local multiplayer prototype added (early version)
  - Shop system added (test version, chest opening available)
@@ -46,7 +46,7 @@ Content
  - New special abilities added: 7
 
 
-0.30.4 Update
+0.30.4 Update  
 MECHANICS
  - Deck creation is now available in the Collection menu (up to 5 decks)
  - Cards can now be added and removed from decks

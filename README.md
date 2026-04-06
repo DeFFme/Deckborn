@@ -4,7 +4,8 @@ Deckborn is a tactical turn-based card game inspired by lane-based combat system
 
 The project is currently in active development.
 
-Inspired by The Elder Scrolls: Legends
+Inspired by The Elder Scrolls: Legends  
+
 ---
 
 ## Current features

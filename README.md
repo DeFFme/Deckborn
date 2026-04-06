@@ -13,23 +13,40 @@ Inspired by The Elder Scrolls: Legends
 - Turn-based card combat system
 - Lane-based battlefield mechanics
 - AI opponent logic
-- Support card type
-- Weapon card type
-- Keywords system 
+- 4 Card types
+- Keywords system
+- Deckbuilder prototype
 - Shop system prototype
 - Local multiplayer prototype
 - Glossary system
 
 ---
 
-## Planned features
+## Roadmap
 
-- Difficulty selection
-- Additional unique card abilities
-- Online multiplayer
-- Campaign mode
-- Expanded card collection
-
+### 🎯 Current development focus
+ ✅ News module improvements  
+ ✅ Card stats display improvements  
+ ✅ New settings  
+ ✅ Glossary improvements  
+ ✅ First shop card pack  
+ ✅ Deck renaming to the Collection  
+ 🔄 Additional unique card abilities  
+ ⬜ Expanded card collection  
+ ⬜ New sound effects  
+### 📦 Planned (near future updates)
+ ⬜ UI polish  
+ ⬜ More supports cards  
+ ⬜ More weapon cards  
+ ⬜ Battle effects  
+### 🌟 Planned (major features)
+ ⬜ Difficulty selection  
+ ⬜ Campaign mode  
+ ⬜ Quests system  
+ ⬜ Online multiplayer  
+ ⬜ Achievement system  
+ ⬜ Profile progression system  
+ 
 ---
 
 ## Project status

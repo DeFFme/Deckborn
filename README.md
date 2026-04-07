@@ -31,13 +31,13 @@ Inspired by The Elder Scrolls: Legends
  ✅ Glossary improvements  
  ✅ First shop card pack  
  ✅ Deck renaming to the Collection  
- 🔄 Additional unique card abilities  
+ ✅ Additional unique card abilities  
  ⬜ Expanded card collection  
- ⬜ New sound effects  
+ 🔄 New sound effects  
 ### 📦 Planned (near future updates)
  ⬜ UI polish  
  ⬜ More supports cards  
- ⬜ More weapon cards  
+ 🔄 More weapon cards  
  ⬜ Battle effects  
 ### 🌟 Planned (major features)
  ⬜ Difficulty selection  

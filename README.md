@@ -32,6 +32,7 @@ Inspired by The Elder Scrolls: Legends
  ✅ First shop card pack  
  ✅ Deck renaming to the Collection  
  ✅ Additional unique card abilities  
+ ✅ Card search system  
  ⬜ Expanded card collection  
  🔄 New sound effects  
 ### 📦 Planned (near future updates)
@@ -42,7 +43,7 @@ Inspired by The Elder Scrolls: Legends
 ### 🌟 Planned (major features)
  ⬜ Difficulty selection  
  ⬜ Campaign mode  
- ⬜ Quests system  
+ 🔄 Quests system  
  ⬜ Online multiplayer  
  ⬜ Achievement system  
  ⬜ Profile progression system  

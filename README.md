@@ -33,8 +33,9 @@ Inspired by The Elder Scrolls: Legends
  ✅ Deck renaming to the Collection  
  ✅ Additional unique card abilities  
  ✅ Card search system  
- ⬜ Expanded card collection  
- 🔄 New sound effects  
+ 🔄 Expanded card collection  
+ ✅ New sound effects
+ 🔄 Card filters
 ### 📦 Planned (near future updates)
  ⬜ UI polish  
  ⬜ More supports cards  
@@ -43,7 +44,7 @@ Inspired by The Elder Scrolls: Legends
 ### 🌟 Planned (major features)
  ⬜ Difficulty selection  
  ⬜ Campaign mode  
- 🔄 Quests system  
+ ✅ Quests system  
  ⬜ Online multiplayer  
  ⬜ Achievement system  
  ⬜ Profile progression system  

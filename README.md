@@ -34,7 +34,7 @@ Inspired by The Elder Scrolls: Legends
  ✅ Additional unique card abilities  
  ✅ Card search system  
  🔄 Expanded card collection  
- ✅ New sound effects
+ ✅ New sound effects  
  🔄 Card filters
 ### 📦 Planned (near future updates)
  ⬜ UI polish  

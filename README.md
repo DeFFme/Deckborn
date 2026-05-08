@@ -35,9 +35,9 @@ Inspired by The Elder Scrolls: Legends
  ✅ Card search system  
  🔄 Expanded card collection  
  ✅ New sound effects  
- 🔄 Card filters
+ ✅ Card filters
 ### 📦 Planned (near future updates)
- ⬜ UI polish  
+ 🔄 UI polish  
  ⬜ More supports cards  
  🔄 More weapon cards  
  ⬜ Battle effects  
@@ -46,7 +46,7 @@ Inspired by The Elder Scrolls: Legends
  ⬜ Campaign mode  
  ✅ Quests system  
  ⬜ Online multiplayer  
- ⬜ Achievement system  
+ 🔄 Achievement system  
  ⬜ Profile progression system  
  
 ---
